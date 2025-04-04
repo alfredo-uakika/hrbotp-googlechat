@@ -1,0 +1,22 @@
+{
+  "name": "hrbotp-googlechat-genai",
+  "version": "1.0.0",
+  "description": "Aplicación Node.js que integra un bot de Google Chat con un agente GenAI de DigitalOcean.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "google-chat",
+    "genai",
+    "digitalocean",
+    "bot"
+  ],
+  "author": "Alfredo Medina",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0"
+  }
+}
